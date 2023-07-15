@@ -13,4 +13,4 @@ The R code for model development, validation, and prediction. Please see our man
 
 
 
-# Please contact Yuichi Iwasaki at yuichi-iwasaki (at) aist.go.jp or yuichiwsk (at) gmail.com if you have any queries and questions.
+Please contact Yuichi Iwasaki at yuichi-iwasaki (at) aist.go.jp or yuichiwsk (at) gmail.com if you have any queries and questions.
