@@ -12,5 +12,10 @@ Rcode_Predict_ASPT_ver1.r
 The R code for model development, validation, and prediction. Please see our manuscript for more details.
 
 
+# Supplementary material for the manuscript
+231005_Supplementary_material.pdf
+230620_Supplementary_material_TableS3.xlsx
+Preprint available at ####.
+
 # Contact
 Please contact Yuichi Iwasaki at yuichi-iwasaki (at) aist.go.jp or yuichiwsk (at) gmail.com if you have any queries and questions.
