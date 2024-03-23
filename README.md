@@ -4,7 +4,7 @@ This repository contains R code and data used in Iwasaki et al. (accepted), "Pre
 # Supplementary material for the manuscript
 #### 231005_Supplementary_material.pdf
 #### 230620_Supplementary_material_TableS3.xlsx
-### Preprints are available at ####.
+#### Preprints are available at ####.
 
 # Data
 #### Data_Predict_ASPT_index_ver2.xlsx
