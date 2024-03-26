@@ -1,4 +1,4 @@
-# Predicting ASPT values in water quality monitoring sites across Japan
+# Purpose
 This repository contains R code and data used in Iwasaki et al. (accepted), "Predicting macroinvertebrate average score per taxon (ASPT) at water quality monitoring sites in Japanese rivers."
 
 # Supplementary material for the manuscript
