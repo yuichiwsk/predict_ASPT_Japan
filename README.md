@@ -1,10 +1,11 @@
 # Purpose
-This repository contains R code and data used in Iwasaki et al. (accepted), "Predicting macroinvertebrate average score per taxon (ASPT) at water quality monitoring sites in Japanese rivers."
+This repository contains R code and data used in Iwasaki et al. (2024), "Predicting macroinvertebrate average score per taxon (ASPT) at water quality monitoring sites in Japanese rivers."
+https://doi.org/10.1007/s11356-024-33053-y
 
 # Supplementary material for the manuscript
 #### 231005_Supplementary_material.pdf
 #### 230620_Supplementary_material_TableS3.xlsx
-#### Preprints are available at ####.
+#### Preprints are available at https://doi.org/10.32942/X2JW3P.
 
 # Data
 #### Data_Predict_ASPT_index_ver2.xlsx
