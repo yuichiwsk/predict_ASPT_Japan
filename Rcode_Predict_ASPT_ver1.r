@@ -132,7 +132,9 @@ sum(pred_ASPT3>=7.5)/length(pred_ASPT3) # 29%
 # Not Good -- ASPT < 5
 sum(pred_ASPT3<5)/length(pred_ASPT3) # 8%
 
-
+ASPT_evaluation <- ifelse(pred_ASPT3 >= 7.5, 4,
+                          ifelse(pred_ASPT3 >= 6, 3,
+                                 ifelse(pred_ASPT3 >= 5, 2, 1)))
 
 
 
