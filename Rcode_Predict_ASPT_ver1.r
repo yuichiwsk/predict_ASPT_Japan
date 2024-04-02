@@ -8,7 +8,7 @@ library(car); library(missForest); library(ggplot2)
 ##### Model development
 #############################################################
 ## Data 
-d10 <- read.xlsx("Data_Predict_ASPT_index_ver1.xlsx", sheet = "Data_modeldev1")
+d10 <- read.xlsx("Data_Predict_ASPT_index_ver2.xlsx", sheet = "Data_modeldev1")
 
 ## Select necessary data for model development
 d11 <- d10 %>%
